@@ -7,7 +7,7 @@ import java.util.Vector;
  */
 public class FindLargestArea {
 	
-//	static int [][] matrix = {
+//	static int [][] matrix = { 
 //					{0, 0, 0, 2, 2},
 //					{1, 1, 7, 2, 2},
 //					{2, 2, 7, 2, 1},
