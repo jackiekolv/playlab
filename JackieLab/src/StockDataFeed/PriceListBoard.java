@@ -21,7 +21,7 @@ public class PriceListBoard extends Thread {
 	
 	final int refresh_sec = 30;
 	
-	String [] SymbolList = {"BTS","SPA","CPF"/*,"KTB","SCB","ADVANC","TCAP","ROBINS","MBKET","ASP"*/};
+	String [] SymbolList = {"BTS","SPA","CPF","KTB","SCB","ADVANC","TCAP","ROBINS","MBKET","ASP"};
 	
 	int open1 = 930;
 	int close1 = 1245;
